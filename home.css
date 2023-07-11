@@ -86,8 +86,8 @@ box-shadow: 29px 23px 92px -36px rgba(0,0,0,0.75);
   }
   .contact,.Personalskills,.TechSkills,.Lang{
     margin: 4%;
-    margin-bottom: 9% ;
-    padding: 2%;
+    margin-bottom:15% ;
+    padding: 10%;
     border-radius: 20px;
     background-color: rgb(72, 72, 72);
    height: auto;
